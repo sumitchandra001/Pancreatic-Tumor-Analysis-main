@@ -62,8 +62,8 @@ A pre-trained deep learning model (model.h5) evaluates the image and predicts th
 The system returns the prediction along with confidence scores and visualization.
 
 👨‍💻 Author
-VARUN GOWDA H S
-varungowda1103@gmail.com
+SUMIT CHANDRA
+s.chandra1w@gmail.com
 
 
 
